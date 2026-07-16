@@ -1,4 +1,4 @@
-# Codex Dream Skin
+# Codex Dream Skin · X Account Edition
 
 <p align="center">
   <a href="./README.md">中文</a> · <strong>English</strong>
@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Give Codex a face that breathes.</strong><br>
-  External themes for the Codex desktop app · Local CDP inject · No official package mutation
+  External themes for the Codex desktop app · Local CDP injection · No official package mutation
 </p>
 
 <p align="center">
@@ -17,88 +17,65 @@
   Unofficial. Does not modify <code>.app</code> / <code>app.asar</code> / WindowsApps.
 </p>
 
-## Sponsors
+## X Account Edition
 
 <p align="center">
-  <a href="https://passion8.cc/register?aff=TuPe">
-    <img src="docs/images/sponsor-passion8.png" alt="Passion8" height="72">
+  <a href="https://x.com/ChenshuoAI">
+    <img src="docs/images/x-account-badge.svg" alt="Follow ChenshuoAI on X" height="88">
   </a>
 </p>
 
 <p align="center">
-  <strong>Smarter Connections · Passionate Creation</strong><br>
-  <sub>Connect AI · Power Creation</sub>
+  <strong>Follow KAI on X: <a href="https://x.com/ChenshuoAI">@ChenshuoAI</a></strong><br>
+  <sub>AI indie builder · Product validation · Automation workflows · SaaS experiments</sub>
 </p>
 
 <p align="center">
-  Thanks to <a href="https://passion8.cc/register?aff=TuPe"><strong>passion8.cc</strong></a> for sponsoring this project.<br>
-  Full-power AI gateway: official models, no silent downgrades, no wrapper shells.<br>
-  One-line setup for Codex / Claude Code / Grok.
-</p>
-
-<p align="center">
-  <sub>
-    Theme install and API config stay separate — this project never rewrites your provider settings.
-  </sub>
+  This edition turns the original sponsor slot into a personal X account callout for distributing a branded Codex skin.
 </p>
 
 ## Gallery
 
-One image, one mood. Real theme previews you can ship:
+One image, one mood. New previews for the X Account Edition:
 
 <p align="center">
-  <img src="docs/images/gallery/skin-01.jpg" alt="Pink Custom" width="900"><br>
-  <sub>Pink Custom</sub>
+  <img src="docs/images/gallery/skin-01.jpg" alt="Miku Codex Theme" width="900"><br>
+  <sub>Miku Codex Theme</sub>
 </p>
 
 <p align="center">
-  <img src="docs/images/gallery/skin-02.jpg" alt="God of Wealth" width="900"><br>
-  <sub>God of Wealth</sub>
+  <img src="docs/images/gallery/skin-02.jpg" alt="Arina Hashimoto Custom Skin" width="900"><br>
+  <sub>Arina Hashimoto Custom Skin</sub>
 </p>
 
 <p align="center">
-  <img src="docs/images/gallery/skin-03.jpg" alt="Red-White Sci-Fi" width="900"><br>
-  <sub>Red-White Sci-Fi</sub>
+  <img src="docs/images/gallery/skin-03.jpg" alt="God of Wealth Codex Theme" width="900"><br>
+  <sub>God of Wealth Codex Theme</sub>
 </p>
 
 <p align="center">
-  <img src="docs/images/gallery/skin-04.jpg" alt="Clear Custom" width="900"><br>
-  <sub>Clear Custom</sub>
+  <img src="docs/images/gallery/skin-04.jpg" alt="Jackson Yee Custom Skin" width="900"><br>
+  <sub>Jackson Yee Custom Skin</sub>
 </p>
 
 <p align="center">
-  <img src="docs/images/gallery/skin-05.jpg" alt="Inspiration" width="900"><br>
-  <sub>Inspiration</sub>
+  <img src="docs/images/gallery/skin-05.jpg" alt="ENFP Universe Theme" width="900"><br>
+  <sub>ENFP Universe Theme</sub>
 </p>
 
-<p align="center">
-  <img src="docs/images/gallery/skin-06.jpg" alt="Purple Night" width="900"><br>
-  <sub>Purple Night</sub>
-</p>
+## What It Does
 
-<p align="center">
-  <img src="docs/images/gallery/skin-07.jpg" alt="Hatsune Miku" width="900"><br>
-  <sub>Hatsune Miku</sub>
-</p>
+- **Real UI**: Sidebar, cards, project picker, and input stay native. This is not a fake full-window screenshot.
+- **Swappable art**: Drop in an image you like and it becomes your theme.
+- **Restorable**: One-click restore to the stock look.
+- **Safer path**: Local-loopback CDP injection only. No official binary or signature changes.
 
-<p align="center">
-  <img src="docs/images/gallery/skin-08.jpg" alt="Stage Black-Gold" width="900"><br>
-  <sub>Stage Black-Gold</sub>
-</p>
+## Quick Start
 
-## What it does
-
-- **Real UI** — Sidebar, cards, project picker, and input stay native. Not a fake full-window screenshot.
-- **Swappable art** — Drop in an image you like and it becomes your theme.
-- **Restorable** — One-click restore to the stock look.
-- **Safer path** — Local-loopback CDP inject only. No official binary or signature changes.
-
-## Quick start
-
-Platform scripts are ready — different plumbing, same goal: theme Codex.
+Platform scripts are ready:
 
 | Platform | Dir | Entry |
-|------|------|------|
+| --- | --- | --- |
 | Apple Silicon / Intel Mac | [`macos/`](./macos/) | Double-click `Install Codex Dream Skin.command` |
 | Windows | [`windows/`](./windows/) | `scripts/install-dream-skin.ps1` → `start-dream-skin.ps1` |
 
@@ -109,22 +86,22 @@ More detail:
 - Paths: [`docs/platforms.md`](./docs/platforms.md)
 - Project notes: [`docs/PROJECT.md`](./docs/PROJECT.md)
 
-## Feedback & contributions
+## Feedback & Contributions
 
-- **Issues:** Use the [issue templates](./.github/ISSUE_TEMPLATE/) (bug / feature). Blank issues are disabled. Please try Verify / Restore self-checks before filing bugs.
-- **PRs:** Follow the [PR template](./.github/pull_request_template.md) — describe the change and tick the self-checks you actually ran (e.g. `macos/tests/run-tests.sh`, verify / restore).
+- **Issues:** Use the [issue templates](./.github/ISSUE_TEMPLATE/) and try Verify / Restore self-checks first.
+- **PRs:** Follow the [PR template](./.github/pull_request_template.md), describe the change, and tick the self-checks you ran.
 
 ## Safety
 
-- CDP binds `127.0.0.1` only — avoid untrusted local processes while the theme runs.
+- CDP binds `127.0.0.1` only.
 - Does not touch the official install directory or code signature.
 - **Never** rewrites API Key / Base URL; relay and theme stay separate.
 
 ## License
 
-- See [`macos/LICENSE`](./macos/LICENSE) (MIT) and [`macos/NOTICE.md`](./macos/NOTICE.md)
+- See [`macos/LICENSE`](./macos/LICENSE) (MIT) and [`macos/NOTICE.md`](./macos/NOTICE.md).
 - Unofficial; Codex and related rights belong to their owners.
-- People / IP art in previews is illustrative only — clear rights before commercial redistribution.
+- People / IP art in previews is illustrative only. Clear rights before commercial redistribution.
 
 ---
 

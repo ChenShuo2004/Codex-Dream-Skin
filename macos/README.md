@@ -95,19 +95,19 @@ Reset to the bundled abstract demo:
 
 MIT — see `LICENSE`. Additional notices in `NOTICE.md` (trademarks, demo asset, runtime Node).
 
-## Sponsors
+## X Account Edition
 
-Thanks to **[passion8.cc](https://passion8.cc/register?aff=TuPe)** for sponsoring this project.
+Follow **[@ChenshuoAI](https://x.com/ChenshuoAI)** for AI product building notes.
 
 <p align="center">
-  <a href="https://passion8.cc/register?aff=TuPe">
-    <img src="../docs/images/sponsor-passion8.png" alt="Passion8" height="96">
+  <a href="https://x.com/ChenshuoAI">
+    <img src="../docs/images/x-account-badge.svg" alt="Follow ChenshuoAI on X" height="96">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://passion8.cc/register?aff=TuPe"><strong>Passion8｜感谢 passion8.cc 赞助本项目</strong></a><br>
-  AI API 中转站，支持 Codex / Claude Code / Grok 等工具接入。主题与 API 配置互相独立。
+  <a href="https://x.com/ChenshuoAI"><strong>Follow KAI on X: @ChenshuoAI</strong></a><br>
+  AI indie builder · product validation · automation workflows · SaaS experiments.
 </p>
 
 ## What this is not

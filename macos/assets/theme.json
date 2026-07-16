@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "id": "custom-1784123441349",
-  "name": "Dream Skin",
-  "brandSubtitle": "CODEX DREAM SKIN",
+  "id": "x-account-edition",
+  "name": "X Account Skin",
+  "brandSubtitle": "FOLLOW @CHENSHUOAI",
   "tagline": "把喜欢的画面变成可交互的 Codex 工作台。",
   "projectPrefix": "选择项目 · ",
-  "projectLabel": "◉  选择项目",
+  "projectLabel": "● 选择项目",
   "statusText": "THEME ONLINE",
   "quote": "Make something wonderful",
   "image": "portal-hero.png",
@@ -21,7 +21,7 @@
     "muted": "#8A7A7D",
     "line": "rgba(196, 120, 128, .22)"
   },
-  "promoTitle": "感谢 Passion8 赞助",
-  "promoSub": "passion8.cc",
-  "promoUrl": "https://passion8.cc/register?aff=TuPe"
+  "promoTitle": "关注陈硕 KAI 的 X",
+  "promoSub": "@ChenshuoAI",
+  "promoUrl": "https://x.com/ChenshuoAI"
 }
