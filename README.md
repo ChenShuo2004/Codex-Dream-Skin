@@ -1,3 +1,5 @@
+> **English:** An independent theming tool for Codex Desktop that injects local visual themes through CDP without modifying the official app package.
+
 # Codex Dream Skin · X Account 
 
 <p align="center">
